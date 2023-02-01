@@ -115,7 +115,7 @@ def Rounds():
     pyautogui.press(",")
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((32.21+10)/3)
+    time.sleep((32.21+9)/3)
     # Round 14
     pyautogui.press("space")
     print("Round 14")
@@ -135,7 +135,7 @@ def Rounds():
     pyautogui.click()
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((25.00+10)/3)
+    time.sleep((25.00+8)/3)
     # Round 16
     pyautogui.press("space")
     print("Round 16")
@@ -150,7 +150,7 @@ def Rounds():
     pyautogui.press("/")
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((16.02+10)/3)
+    time.sleep((16.02+5)/3)
     # Round 17
     pyautogui.press("space")
     print("Round 17")
@@ -167,7 +167,7 @@ def Rounds():
     pyautogui.moveTo(h2)
     time.sleep(buffer)
     pyautogui.click()
-    time.sleep((15.76+10)/3)
+    time.sleep((15.76+5)/3)
     # Round 20
     pyautogui.press("space")
     print("Round 20")
@@ -189,7 +189,7 @@ def Rounds():
     pyautogui.press("/")
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((18.12+10)/3)
+    time.sleep((18.12+5)/3)
     # Round 22
     pyautogui.press("space")
     print("Round 22")
@@ -232,7 +232,7 @@ def Rounds():
     pyautogui.press("/")
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((14.51+10)/3)
+    time.sleep((14.51+8)/3)
     # Round 27
     pyautogui.press("space")
     print("Round 27")
@@ -241,7 +241,7 @@ def Rounds():
     pyautogui.press("/")
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((34.26+10)/3)
+    time.sleep((34.26+8)/3)
     # Round 28
     pyautogui.press("space")
     print("Round 28")
@@ -273,7 +273,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((15.25+10)/3)
+    time.sleep((15.25+5)/3)
     # Round 30
     pyautogui.press("space")
     print("Round 30")
@@ -292,7 +292,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((13.07+10)/3)
+    time.sleep((13.07+8)/3)
     # Round 31
     pyautogui.press("space")
     print("Round 31")
@@ -305,7 +305,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((15.91+10)/3)
+    time.sleep((15.91+5)/3)
     # Round 32
     pyautogui.press("space")
     print("Round 32")
@@ -322,7 +322,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((27.96+10)/3)
+    time.sleep((27.96+5)/3)
     # Round 33
     pyautogui.press("space")
     print("Round 33")
@@ -341,7 +341,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((25.34+10)/3)
+    time.sleep((25.34+5)/3)
     # Round 34
     pyautogui.press("space")
     print("Round 34")
@@ -354,7 +354,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((36.00+10)/3)
+    time.sleep((36.00+5)/3)
     # Round 35
     pyautogui.press("space")
     print("Round 35")
@@ -371,7 +371,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((33.76+10)/3)
+    time.sleep((33.76+5)/3)
     # Round 36
     pyautogui.press("space")
     print("Round 36")
@@ -390,7 +390,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((20.99+10)/3)
+    time.sleep((20.99+5)/3)
     # Round 37
     pyautogui.press("space")
     print("Round 37")
@@ -412,7 +412,7 @@ def Rounds():
     pyautogui.click(esc)
     time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((29.06+20)/3)
+    time.sleep((29.06+12)/3)
     # Round 39
     pyautogui.press("space")
     print("Round 39")
