@@ -1,5 +1,5 @@
 # Use Geraldo as hero
-# Play on Cubism
+# Play on Cubism (Easy, Standard)
 # Turn off Autostart
 
 import pyautogui
@@ -74,8 +74,10 @@ def Rounds():
     time.sleep(buffer)
     pyautogui.click()
     time.sleep(buffer)
+    pyautogui.click(Shop)
+    time.sleep(buffer)
     pyautogui.click(esc)
-    time.sleep((18.70+3)/3)
+    time.sleep((18.70+0)/3)
     # Round 7
     pyautogui.press("space")
     print("Round 7")
@@ -87,7 +89,7 @@ def Rounds():
     # Round 9
     pyautogui.press("space")
     print("Round 9")
-    time.sleep((18.95+10)/3)
+    time.sleep((18.95+11)/3)
     # Round 10
     pyautogui.press("space")
     print("Round 10")
@@ -100,7 +102,7 @@ def Rounds():
     pyautogui.moveTo(h1)
     time.sleep(buffer)
     pyautogui.click()
-    time.sleep((19.16+10)/3)
+    time.sleep((19.16+5)/3)
     # Round 12
     pyautogui.press("space")
     print("Round 12")
