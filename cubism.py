@@ -1141,6 +1141,10 @@ def Rounds():
     t.sleep(p)
     pag.press(".")
     t.sleep(p)
+    pag.moveTo(Target)
+    t.sleep(p)
+    pag.press("tab")
+    t.sleep(p)
     pag.press("esc")
     t.sleep(p)
     pag.press("y")
@@ -1296,7 +1300,6 @@ def Rounds():
     # Round 79
     pag.press("space")
     print("Round 79")
-    pag.moveTo(Target)
     return 0
 
 if __name__ == "__main__":
