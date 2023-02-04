@@ -6,3 +6,5 @@ while True:
     pag.press("2")
     pag.press("3")
     pag.press("4")
+    pag.press("5")
+    pag.press("6")
